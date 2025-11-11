@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake-game
 Snake game with a user interface programmed in Python.
 
@@ -22,3 +23,6 @@ python main.py
 "# Snake_game_3D" 
 https://github.com/Muhammadsax/Snake_game_3D.git 
 https://github.com/Muhammadsax/Snake_game_3D.git 
+=======
+# Snake_game_3D
+>>>>>>> f1a911fca20d38c9a84aeefa2fd7aaf9d4cca7e3
