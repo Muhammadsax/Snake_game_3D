@@ -1,29 +1,38 @@
 <<<<<<< HEAD
-# Snake-game
-Snake game with a user interface programmed in Python.
+# Snake Game / لعبة الثعبان
 
-## How to Play
+## English
 
-Use the arrow keys to control the snake. Eat the red food to grow longer and score points. Avoid hitting the walls or yourself!
+A classic Snake game with a user interface programmed in Python.
 
-## Installation
+### How to Play
 
-1.  Make sure you have Python installed (version 3.6 or higher).
-2.  Install Pygame:
+*   Use the arrow keys to control the snake.
+*   Eat the red food to grow longer and score points.
+*   Avoid hitting the walls or your own tail!
 
-    ```bash
-    pip install pygame
-    ```
+### Running the Game
 
-## Run the Game
-
-Navigate to the game directory and run:
- ```bash
+Navigate to the project directory in your terminal and run:
+```bash
 python main.py
-"# Snake_game_3D" 
-https://github.com/Muhammadsax/Snake_game_3D.git 
-https://github.com/Muhammadsax/Snake_game_3D.git 
-=======
-# Snake_game_3D
->>>>>>> f1a911fca20d38c9a84aeefa2fd7aaf9d4cca7e3
-"# Snake_game_3D" 
+```
+
+---
+
+## عربي (Arabic)
+
+لعبة الثعبان الكلاسيكية مع واجهة مستخدم مبرمجة بلغة بايثون.
+
+### كيفية اللعب
+
+*   استخدم مفاتيح الأسهم للتحكم في الثعبان.
+*   كل الطعام الأحمر لتنمو وتزيد من نقاطك.
+*   تجنب الاصطدام بالجدران أو بذيلك!
+
+### تشغيل اللعبة
+
+انتقل إلى مجلد المشروع في الطرفية الخاصة بك وقم بتشغيل:
+```bash
+python main.py
+```
